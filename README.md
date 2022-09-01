@@ -1,5 +1,5 @@
-Nama    : Adrian Holovaty
+Nama    : Zanetta Aisha Dharmawan
 
-NPM     : 1006123456
+NPM     : 2106751846
 
 Kelas   : D
